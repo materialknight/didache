@@ -7,7 +7,8 @@
 
 title: Doctrina de los Doce Apóstoles
 # email:
-# description: >- # this means to ignore newlines until "baseurl:"
+description: >- # this means to ignore newlines until "baseurl:"
+  Edición digital y comentada de la «Doctrina de los Doce Apóstoles», también conocida en español como «La Didajé», y en latín como «Didache XII Apostolorum».
 baseurl: "/didache" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
