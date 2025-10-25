@@ -1,0 +1,15 @@
+{
+   "name": "Enseñanza del Señor a las naciones mediante los doce apóstoles.",
+   "short_name": "Enseñanza de los doce apóstoles.",
+   "description": "Registro de consumo de agua.",
+   "theme_color": "#e5fafd",
+   "background_color": "#e5fafd",
+   "display": "standalone",
+   "orientation": "landscape",
+   "start_url": "/consumoagua/",
+   "icons": [
+      {
+         "sizes": "512x512"
+      }
+   ]
+}

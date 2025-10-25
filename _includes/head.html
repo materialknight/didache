@@ -1,0 +1,142 @@
+<head>
+   <meta charset="utf-8">
+   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   <meta name="viewport" content="width=device-width, initial-scale=1">
+   {%- seo -%}
+   <link rel="stylesheet" href={{ "/assets/main.css" | relative_url }}>
+   {%- feed_meta -%}
+   {%- if jekyll.environment == 'production' and site.google_analytics -%}
+   {%- include google-analytics.html -%}
+   {%- endif -%}
+   <link rel="icon" href={{ "/assets/favicon.ico" | relative_url }}>
+   <style>
+      span {
+         display: block;
+      }
+
+      [popovertarget=toc] {
+         position: fixed;
+         inset: auto 40px 40px auto;
+         width: 40px;
+         height: 40px;
+         cursor: pointer;
+         border: 1px solid black;
+         background-color: aliceblue;
+      }
+
+      [popovertarget=toc]:active {
+         background-color: burlywood;
+      }
+
+      [popovertarget=toc]:hover {
+         background-color: cornsilk;
+      }
+
+      #toc {
+         padding: 20px;
+         overflow-y: auto;
+         max-height: 75vh;
+
+      }
+
+      ul {
+         list-style-type: none;
+      }
+
+      #markdown-toc {
+         margin: 0;
+      }
+
+      #color-picker {
+         display: flex;
+         justify-content: space-evenly;
+         align-items: center;
+         gap: 10px;
+      }
+
+      .color-pick {
+         width: 25px;
+         height: 25px;
+         border-radius: 50%;
+         border: 1px solid black;
+      }
+
+      #reset-picker {
+         padding: 0;
+         width: 30px;
+         height: 30px;
+         border-radius: 50%;
+         display: flex;
+         justify-content: center;
+         align-items: center;
+         border: 1px solid black;
+         background-color: #fdfdfd;
+         fill: red;
+      }
+
+      #reset-picker:hover {
+         background-color: cornsilk;
+      }
+
+      #reset-picker:active {
+         background-color: bisque;
+      }
+
+      #close-btn {
+         background-color: aliceblue;
+         fill: forestgreen;
+      }
+
+      #close-btn:hover {
+         background-color: cornsilk;
+      }
+
+      #close-btn:active {
+         background-color: bisque;
+      }
+
+      [data-color=paleturquoise] {
+         background-color: paleturquoise;
+      }
+
+      [data-color=palegreen] {
+         background-color: palegreen;
+      }
+
+      [data-color=pink] {
+         background-color: pink;
+      }
+
+      [data-color=khaki] {
+         background-color: khaki;
+      }
+
+      .outlined {
+         border-top: 1px solid black;
+         border-bottom: 1px solid black;
+      }
+
+      .grid-container {
+         padding: 10px;
+         display: grid;
+         gap: 10px;
+      }
+
+      #annotation {
+         padding: 6px;
+      }
+
+      .button-container {
+         display: flex;
+         justify-content: space-evenly;
+      }
+
+      label:has(input:checked) {
+         outline: 2px solid darkviolet;
+      }
+
+      /* p::first-letter {
+         color: red;
+      } */
+   </style>
+</head>
