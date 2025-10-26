@@ -5,7 +5,7 @@
    "theme_color": "#e5fafd",
    "background_color": "#e5fafd",
    "display": "standalone",
-   "orientation": "landscape",
+   "orientation": "any",
    "start_url": "/didache/",
    "icons": [
       {

@@ -246,7 +246,7 @@ title: Doctrina del Señor transmitida a las naciones por los Doce Apóstoles.
 [3](#c10-v3) Tú, Señor Todopoderoso, creaste todo a causa de Tu Nombre, y diste comida y bebida a los hombres para su disfrute, para que pudieran darte gracias a Ti. Y a nosotros nos diste gratuitamente comida y bebida espiritual y vida eterna a través de Tu Hijo y Siervo.
 {:#c10-v3}
 
-[4](#c10-v4) Ante todo, te damos gracias por tu poder. A Ti sea la gloria por los siglos de los siglos.
+**[4](#c10-v4)** Ante todo, te damos gracias por tu poder. A Ti sea la gloria por los siglos de los siglos.
 {:#c10-v4}
 
 <!-- AQUI ME HE QUEDADO -->
