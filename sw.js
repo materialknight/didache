@@ -1,26 +1,30 @@
 "use strict"
 
-// OLD CACHE: NONE
-const CURRENT_CACHE = "v0.1.0"
+// OLD CACHE: "v0.1.0"
+const CURRENT_CACHE = "v0.1.1"
 
 self.addEventListener("install", cache_everything)
-
 self.addEventListener("activate", del_prev_caches)
-
 self.addEventListener("fetch", network_first)
+
+const cacheable_responses = [
+   "./assets/main.css",
+   "./assets/minima-social-icons.svg",
+   "./favicon.png",
+   "./",
+   "./index.html",
+   "./index.js",
+   "./info.html",
+   "./manifest.json",
+   "./404.html"
+]
 
 // Functions:
 
 function cache_everything(installation) {
    skipWaiting()
    installation.waitUntil(
-      caches.open(CURRENT_CACHE).then(cache => cache.addAll([
-         "./",
-         "./index.html",
-         // './assets/index.css',
-         // './assets/index.js',
-         "./manifest.json"
-      ]))
+      caches.open(CURRENT_CACHE).then(cache => cache.addAll(cacheable_responses))
    )
 }
 
@@ -36,23 +40,36 @@ function del_prev_caches(activation) {
 function network_first(fetching) {
    if (fetching.request.method !== "GET")
    {
-      return; // Let the browser handle this request
+      return // Let the browser handle non-GET requests.
    }
    fetching.respondWith(
       fetch(fetching.request)
          .then(network_response => {
-            if (!network_response.ok)
+            // Note: If fetching.request.url has search params "?key1=val1&key2=val2", the response won't be cached!
+            const res_is_cacheable = cacheable_responses.some(rel_url => fetching.request.url.endsWith(rel_url.slice(1)))
+            if (res_is_cacheable)
             {
-               throw new Error(`Could not fetch ${fetching.request.url} from the network, retrieving from cache.`)
+               const response_clone = network_response.clone()
+               caches.open(CURRENT_CACHE).then(cache => cache.put(fetching.request, response_clone))
             }
-            const response_clone = network_response.clone()
-            caches.open(CURRENT_CACHE).then(cache => cache.put(fetching.request, response_clone))
             return network_response
          })
-         .catch(async err => {
-            console.error(err.message)
-            const cached_response = await caches.open(CURRENT_CACHE).then(cache => cache.match(fetching.request))
-            return cached_response ?? new Response('Both network and cache failed', {
+         .catch(async () => {
+            console.warn(`Could not fetch ${fetching.request.url} from the network, retrieving from cache.`)
+            const open_cache = await caches.open(CURRENT_CACHE)
+            const cached_response = await open_cache.match(fetching.request)
+            if (cached_response)
+            {
+               return cached_response
+            }
+            const req_keys = await open_cache.keys()
+            const req_404 = req_keys.find(req => req.url.endsWith("/404.html"))
+            if (req_404)
+            {
+               const cached_404 = await open_cache.match(req_404)
+               return cached_404
+            }
+            return new Response('Both network and cache failed', {
                status: 404,
                headers: { 'Content-Type': 'text/plain' }
             })
