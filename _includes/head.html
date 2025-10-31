@@ -11,13 +11,17 @@
    <link rel="icon" href={{ "./favicon.png" | relative_url }}>
    <link rel="manifest" href="./manifest.json">
    <style>
-      span {
+      .hemistich {
          display: block;
+      }
+
+      blockquote {
+         font-style: normal;
       }
 
       [popovertarget=toc] {
          position: fixed;
-         inset: auto 40px 40px auto;
+         inset: auto 37px 37px auto;
          width: 40px;
          height: 40px;
          cursor: pointer;
@@ -33,15 +37,48 @@
          background-color: cornsilk;
       }
 
+      .small-img-container {
+         display: flex;
+         gap: 20px;
+         margin-bottom: 15px;
+
+         img {
+            border: 1px solid black;
+         }
+      }
+
+      .big-img-container {
+         display: grid;
+         justify-items: center;
+         gap: 10px;
+
+         img {
+            width: 240px;
+            height: 240px;
+         }
+      }
+
+      .qr-code-str {
+         border: 1px solid black;
+         padding: 6px;
+      }
+
       #toc {
          padding: 20px;
          overflow-y: auto;
-         max-height: 75vh;
-
+         max-height: 70vh;
       }
 
       ul {
          list-style-type: none;
+         margin-left: 20px;
+      }
+
+      textarea {
+         font-size: 15px;
+         line-height: 1.3;
+         min-width: 190px;
+         min-height: 110px;
       }
 
       #markdown-toc {
