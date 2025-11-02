@@ -45,7 +45,7 @@ title: Doctrina del Señor transmitida a las naciones por los Doce Apóstoles.
 [1:1](#c1-1) Existen dos caminos muy diferentes entre sí: el de la vida y el de la muerte.
 {:#c1-1}
 
-[1:2](#c1-2) [**](#n1-2a) He aquí el Camino de la Vida: en primer lugar, amarás a Dios, que te ha creado; y en segundo lugar, amarás a tu prójimo como a ti mismo. Y todo lo que no quieras que se te haga a ti, tú tampoco lo hagas a otro.
+[1:2](#c1-2) [**](#n1-2) He aquí el Camino de la Vida: en primer lugar, amarás a Dios, que te ha creado; y en segundo lugar, amarás a tu prójimo como a ti mismo. Y todo lo que no quieras que se te haga a ti, tú tampoco lo hagas a otro.
 {:#c1-2}
 
 [1:3](#c1-3) [**](#n1-3) He aquí la doctrina contenida en estas palabras: Bendecid a los que os maldicen, rogad por vuestros enemigos, ayunad por los que os persiguen. ¿Qué mérito hay en amar a los que os aman? Lo mismo hacen los paganos. Al contrario, amad a los que os odian, y no tendréis ya enemigos.
@@ -128,7 +128,7 @@ title: Doctrina del Señor transmitida a las naciones por los Doce Apóstoles.
 [4:4](#c4-4) No fluctúes entre el sí y el no.
 {:#c4-4}
 
-[4:5](#c4-5) No seas como quien extiende las manos para recibir, y las cierra para no dar.
+[4:5](#c4-5) [**](#n4-5) No seas como quien extiende las manos para recibir, y las cierra para no dar.
 {:#c4-5}
 
 [4:6](#c4-6) De todo lo que poseas, darás limosna para el perdón de tus pecados.
@@ -268,7 +268,7 @@ title: Doctrina del Señor transmitida a las naciones por los Doce Apóstoles.
 [11:2](#c11-2) Sin embargo, si ese mismo maestro se pervirtiere y enseñare otra doctrina para crear cisma, no le escuchéis; pero si enseña para aumentar la justicia, y el conocimiento del Señor, acogedle como al Señor.
 {:#c11-2}
 
-[11:3](#c11-3) En cuanto a los apóstoles y profetas, proceded así, conforme al Evangelio:
+[11:3](#c11-3) [**](#n11-3) En cuanto a los apóstoles y profetas, proceded así, conforme al Evangelio:
 {:#c11-3}
 
 [11:4](#c11-4) Todo apóstol que llegue a vosotros ha de ser recibido como el Señor.
@@ -280,96 +280,90 @@ title: Doctrina del Señor transmitida a las naciones por los Doce Apóstoles.
 [11:6](#c11-6) Al partir, el apóstol no aceptará nada sino pan para sustentarse hasta llegar a otro hospedaje. Si pidiere dinero, es un falso profeta.
 {:#c11-6}
 
-[11:7](#c11-7) Cuando un profeta hable en El Espíritu, no le pondréis a prueba ni le juzgaréis, porque todo pecado se perdona, menos ese.
+[11:7](#c11-7) [**](#n11-7) Mientras un profeta hable inspirado por espíritu, no le pondréis a prueba ni le juzgaréis, porque todo pecado se perdona, menos ese.
 {:#c11-7}
 
-[11:8](#c11-8) Pero no todo el que habla en El Espíritu es profeta, sino solo el que vive como el Señor. Por el modo de vida se distinguirá el verdadero profeta del falso.
+[11:8](#c11-8) [**](#n11-8) Pero no todo el que habla inspirado por espíritu es profeta, sino solo el que vive como el Señor. Por el modo de vida se distinguirá el verdadero profeta del falso.
 {:#c11-8}
 
-[11:9](#c11-9) El profeta que, hablando en El Espíritu, manda poner una mesa, no come de ella, a menos que sea un falso profeta.
+[11:9](#c11-9) El profeta que, hablando por inspiración de espíritu, manda poner una mesa, no come de ella, a menos que sea un falso profeta.
 {:#c11-9}
 
 [11:10](#c11-10) El profeta que enseñare la verdad, pero no hiciere lo que enseña, es un falso profeta.
 {:#c11-10}
 
-<!-- AQUI ME HE QUEDADO -->
-todo profeta,
-probado que sea verdadero, que trabaja en el misterio de la Iglesia en el mundo,
-pero que no enseña a otros a hacer lo que él mismo hace, no será juzgado entre
-vosotros, pues es con Dios que él tiene su juicio; pues fue lo mismo con los
-profetas antiguos
-
-Todo profeta, sin embargo, probado y auténtico, que celebra el misterio cósmico de la Iglesia, pero no enseña a hacer lo que él hace, no ha de ser juzgado por vosotros. Su juicio corresponde a Dios. Porque otro tanto hicieron los antiguos profetas.
-
-[11:11](#c11-11) El profeta que fuere probado ser verdadero, y ejercita su cuerpo para el misterio terrestre de la Iglesia, y que no obligare a otros a practicar su ascetismo, no le juzguéis, porque Dios es su juez: lo mismo hicieron los antiguos profetas.
+[11:11](#c11-11) El profeta, probado verdadero, que trabaja en el misterio de la Iglesia Universal, pero no enseña a otros a hacer lo que él hace, no ha de ser juzgado por vosotros; su juicio corresponde a Dios, porque lo mismo hicieron los antiguos profetas.
 {:#c11-11}
 
-[11:12](#c11-12) Si alguien, hablando por el espíritu, os pidiere dinero u otra cosa, no le hagáis caso; pero si aconseja se dé a los pobres, no le juzguéis.
+[11:12](#c11-12) Y si alguien, hablando por inspiración de espíritu, os pidiere dinero u otra cosa, no lo escuchéis; pero si os dice que deis para otros necesitados, que nadie lo juzgue.
 {:#c11-12}
+
 
 ### Capitulo 12: Hospitalidad con los Cristianos.
 
-[12:1](#c12-1) A todo el que fuere a vosotros en Nombre del Señor, recibidle, y probadle después para conocerle, puesto que debéis tener suficiente criterio para conocer a los que son de la derecha y los que pertenecen a la izquierda.
+[12:1](#c12-1) A todo el que llegue en el Nombre del Señor, acogedle, y probadle después para conocerle, pues tenéis criterio para discernir entre la derecha y la izquierda.
 {:#c12-1}
 
-[12:2](#c12-2) Si el que viniere a vosotros, fuere un pobre viajero, socorredle cuanto podáis; pero no debe quedarse en vuestra casa más de dos o tres días.
+[12:2](#c12-2) Si es un viajero que llega de paso, ayudadlo en lo que podáis; pero que no se quede entre vosotros más de dos días, o tres, si es necesario.
 {:#c12-2}
 
-[12:3](#c12-3) Si quisiere permanecer entre vosotros como artista, que trabaje para comer;
+[12:3](#c12-3) Mas si quisiere permanecer entre vosotros, y tiene un oficio, que trabaje para comer;
 {:#c12-3}
 
-[12:4](#c12-4) si no tuviese oficio ninguno, procurad según vuestra prudencia a que no quede entre vosotros ningún cristiano ocioso.
+[12:4](#c12-4) Y si no sabe ningún oficio, haced según vuestro criterio para que el cristiano no viva ocioso.
 {:#c12-4}
 
-[12:5](#c12-5) Si no quisiere hacer esto, es un negociante del cristianismo, del cual os alejaréis.
+[12:5](#c12-5) Y si no quisiere aceptar eso, es un traficante de Cristo. ¡Guardaos de tales personas!
 {:#c12-5}
 
 ### Capitulo 13: Apoyo a los Profetas.
 
-[13:1](#c13-1) El verdadero profeta, que quisiere fijar su residencia entre vosotros, es digno del sustento;
+[13:1](#c13-1) El verdadero profeta que quisiere fijar su residencia entre vosotros, es digno de su sustento.
 {:#c13-1}
 
-[13:2](#c13-2) porque un doctor verdadero, es también un artista, y por tanto digno de su alimento.
+[13:2](#c13-2) Así también un verdadero maestro, igual que el obrero, es digno de su sustento.
 {:#c13-2}
 
-[13:3](#c13-3) Tomarás tus primicias de la era y el lagar, de los bueyes y de las cabras y se las darás a los profetas, porque ellos son vuestros grandes sacerdotes.
+[13:3](#c13-3) [**](#n13-3) Tomarás las primicias del lagar, del campo, de los bueyes y de las ovejas, para darlas a los profetas, porque ellos son vuestros sumos sacerdotes.
 {:#c13-3}
 
-[13:4](#c13-4) Al preparar una hornada de pan, toma las primicias, y dalas según el precepto.
+[13:4](#c13-4) Y si no tuviereis profeta, dadlo a los pobres.
+
+[13:5](#c13-5) Cuando prepares pan, tomarás la primicia y la darás conforme a este mandamiento.
 {:#c13-4}
 
-[13:5](#c13-5) Lo mismo harás al empezar una vasija de vino o de aceite, cuyas primicias destinarás a los profetas.
+[13:6](#c13-6) Asimismo, cuando abráis una tinaja de vino o aceite, tomarás la primicia y la darás a los profetas.
 {:#c13-5}
 
-[13:6](#c13-6) En lo concerniente a tu dinero, tus bienes y tus vestidos, señala tú mismo las primicias y haz según el precepto.
+[13:7](#c13-7) En cuanto a tu dinero, tus bienes y tus vestidos, tomarás primicias según te parezca, y las darás conforme a este mandamiento.
 {:#c13-6}
 
 ### Capitulo 14: La Misa del Domingo.
 
-[14:1](#c14-1) Cuando os reuniereis en el domingo del Señor, partid el pan, y para que el sacrificio sea puro, dad gracias después de haber confesado vuestros pecados.
+[14:1](#c14-1) Reuníos cada domingo, que es el día del Señor, para celebrar la Eucaristía partiendo el pan y dando gracias, después de haber confesado vuestros pecados, para que vuestro sacrificio sea puro.
 {:#c14-1}
 
-[14:2](#c14-2) [**](#n14-2) El que de entre vosotros estuviere enemistado con su amigo, que se aleje de la asamblea hasta que se haya reconciliado con él, a fin de no profanar vuestro sacrificio.
+[14:2](#c14-2) [\*\*](#n14-2) Pero que no participen los hermanos que estén en contienda, hasta que se reconcilien, para que vuestro sacrificio no sea profanado.
 {:#c14-2}
 
-[14:3](#c14-3) [**](#n14-3) He aquí las propias palabras del Señor: “En todo tiempo y lugar me traeréis una víctima pura, porque soy el gran Rey, dice el Señor, y entre los pueblos paganos, mi nombre es admirable.”
+[14:3](#c14-3) [\*\*](#n14-3) Porque esto dijo El Señor: «En todo lugar y tiempo me ofreceréis un sacrificio puro, porque soy El Gran Rey, y Mi Nombre es alabado entre las naciones».
 {:#c14-3}
 
 ### Capitulo 15: Obispos, Diáconos y Amonestación Cristiana.
-
-[15:1](#c15-1) Para el cargo de obispos y diáconos del Señor, elegiréis a hombres humildes, desinteresados, veraces y probados, porque también hacen el oficio de profetas y doctores.
+[15:1](#c15-1) Elegíos, pues, obispos y diáconos dignos del Señor: varones mansos, que no amen el dinero, veraces y probados; porque ellos también desempeñan para vosotros el ministerio litúrgico de los profetas y maestros.
 {:#c15-1}
 
-[15:2](#c15-2) No les menospreciéis, puesto que son vuestros dignatarios, juntamente con vuestros profetas y doctores.
+[15:2](#c15-2) No los menospreciéis, porque merecen de vosotros el mismo respeto que los profetas y maestros.
 {:#c15-2}
 
-[15:3](#c15-3) Amonestaos unos a otros, según los preceptos del Evangelio, en paz y no con ira. Que nadie hable al que pecare contra su prójimo, y no se le tenga ninguna consideración entre vosotros, hasta que se arrepienta.
+[15:3](#c15-3) Amonestaos unos a otros, no con ira, sino en paz, según el Evangelio. Y si alguno tratare a otro injustamente, que nadie le hable ni lo escuche, hasta que se arrepienta.
 {:#c15-3}
 
-[15:4](#c15-4) Haced vuestras oraciones, vuestras limosnas y todo cuanto hiciereis, según los preceptos dados en el Evangelio de nuestro Señor.
+[15:4](#c15-4) Haced vuestras oraciones, limosnas y todas vuestras obras según lo tenéis en el Evangelio de Nuestro Señor.
 {:#c15-4}
 
 ### Capitulo 16: Estemos Vigilantes.
+<!-- AQUI ME HE QUEDADO -->
 
 [16:1](#c16-1) Velad por vuestra vida; procurando que estén ceñidos vuestros lomos y vuestras lámparas encendidas, y estad dispuestos, porque no sabéis la hora en que vendrá el Señor.
 {:#c16-1}
@@ -397,8 +391,8 @@ Todo profeta, sin embargo, probado y auténtico, que celebra el misterio cósmic
 
 ## Notas.
 
-[1:2](#c1-2) Antes de ser conocidos como «cristianos» (Hechos 11:26), la fe de los seguidores de Jesús se llamaba simplemente «El Camino» (Hechos 9:2, cp. Hechos 19:9, 19:23, 22:4, 24:14, 24:22), y los judíos conocían a «los del Camino» como «la secta de los nazarenos» (Hechos 24:5).
-{:#n1-2a}
+[1:2](#c1-2) Antes de ser conocidos como «cristianos» (Hechos 11:26), la fe de los seguidores de Jesús se llamaba simplemente «El Camino» (Hechos 9:2, cp. Hechos 19:9, 19:23, 22:4, 24:14 y 24:22), y los judíos conocían a «los del Camino» como «la secta de los nazarenos» (Hechos 24:5).
+{:#n1-2}
 
 «Amar a Dios sobre todas las cosas, y a tu prójimo como a ti mismo» es «El Doble Mandamiento del Amor» (cp. Mateo 22:34-40 y Marcos 12:28-31).
 {:#n1-2b}
@@ -408,6 +402,9 @@ Lo que aparece al final de este versículo es «La Regla de Plata»: «No hagas 
 
 [1:3](#c1-3) Compárese este y los siguentes 2 versículos con Mateo 5:38-48 y Lucas 6:27-36.
 {:#n1-3}
+
+[4:5](#c4-5) Cp. Eclesiástico 4:31.
+{:#n4-5}
 
 [4:14](#c4-14) Este versículo se explica en todo el Capítulo [14](#capitulo-14-la-misa-del-domingo).
 {:#n4-14}
@@ -434,24 +431,54 @@ Lo que aparece al final de este versículo es «La Regla de Plata»: «No hagas 
 {:#n9-4}
 
 [10:6](#c10-6) «Hosanna» es la transliteración de una expresión hebrea que significa «sálvanos ya». El Domingo de Ramos, cuando Jesús entra en Jerusalén, la multitud lo recibe tendiendo ramas en su camino, y aclamando: «¡*Hosanna* al Hijo de David! ¡Bendito el que viene en el nombre del Señor!» (Mateo 21:8-9), y unos muchachos lo aclaman *en el Templo* (Mateo 21:15). Todo eso da cumplimiento al Salmo 118:25-27:
+{:#n10-6}
 
 > 25 ¡Danos, oh Señor, la salvación; danos, oh Señor, la victoria!<br>
 > 26 ¡Bendito el que viene en el Nombre del Señor! Desde la casa del Señor os bendecimos.<br>
 > 27 El Señor es Dios, Él nos ilumina. Formen la procesión con ramos en la mano hasta los cuernos del altar.<br>
+{:#n10-6b}
 
 El cumplimiento de esa profecía se oscurece un poco en algunas traducciones bíblicas, en las que el versículo 27 no dice nada de ramos. Por ejemplo, en la Reina-Valera 1960 dice:
+{:#n10-6c}
 
 > 27 Jehová es Dios, y nos ha dado luz; atad víctimas con cuerdas a los cuernos del altar.
+{:#n10-6d}
 
 «Maranathá» es la transliteración de una expresión aramea que puede significar diferentes cosas dependiendo de cómo se separe: «Marán athá» significa «Nuestro Señor viene», y «Marana tha» significa «Ven, Señor Nuestro». Cp. Apocalipsis 22:20.
+{:#n10-6e}
 
 «Amén» es una palabra hebrea que significa «verdad», «ciertamente» o «así sea». Cp. Apocalipsis 3:14, donde Jesús es llamado «El Amén», es decir: «La Verdad».
-{:#n10-6}
+{:#n10-6f}
+
+[11:3](#c11-3) «Apóstol» viene del griego «ἀπόστολος», y significa «enviado», y en este caso, no se refiere solo a uno de los doce, sino a cualquier misionero.
+{:#n11-3}
+
+*Profeta* es el que habla por inspiración del Espíritu Santo, lo cual abarca no solo al que predice el futuro o revela lo oculto, sino también al predicador que edifica, exhorta y consuela (1 Corintios 14:3).
+{:#n11-3b}
+
+[11:7](#c11-7) El pecado imperdonable es la blasfemia contra el Espíritu Santo, que consiste en atribuir al Diablo lo que viene de Dios, o viceversa, de manera pública, deliberada y obstinada (Mateo 12:22-37 y Marcos 3:20-30); es la disposición del corazón en la que no queremos reconocer nuestro error ni arrepentirnos, y es por eso que este pecado no puede perdonarse, pues es el rechazo deliberado de la misericordia infinita de Dios.
+{:#n11-7}
+
+Este versículo manda que no se juzgue ni se ponga a prueba a un profeta mientras esté hablando inspirado por espíritu, pues el calor de la discusión y el prejuicio pueden llevarnos a cuestionar al profeta más allá de lo razonable, en cuyo caso estaríamos escandalizando a otros (haciéndoles creer que su doctrina es mala cuando efectivamente es buena), y estorbando al Espíritu Santo, blasfemando así contra Él. Por eso, en vez de confrontar al profeta inmediatamente mientras habla inspirado, los siguientes versículos mandan observar cuidadosamente lo que enseña y cómo vive, para distinguir si es verdadero o falso profeta.
+{:#n11-7b}
+
+[11:8](#c11-8) Los versículos [11:9](#c11-9) y [11:12](#c11-12) dicen que el falso profeta se aprovecha de los demás cuando habla inspirado por espíritu. Esto es posible por 2 razones:
+{:#n11-8}
+
+1. No todo espíritu es de Dios, por eso hay que examinarlos (1 Juan 4:1).
+2. Uno puede tener carisma de profecía, y no ser dócil a la voluntad del Espíritu Santo. En ese caso, lo que el Espíritu inspire saldra mezclado con la concupiscencia y los errores del profeta. Así se explica que este hable por el Espíritu Santo cuando confiesa que Jesús es El Señor (1 Corintios 12:3), y cuando cumple su función de edificar, exhortar y consolar (1 Corintios 14:3), aunque luego quiera valerse de su carisma para beneficio personal.
+{:#n11-8b}
+
+Por ambas razones existe el carisma de discernimiento de espíritus (1 Corintios 12:10), y Pablo nos exhorta a examinarlo todo y quedarnos con lo bueno (1 Tesalonicenses 5:19-21).
+{:#n11-8c}
+
+[13:3](#c13-3) Cp. Números 18:12-13, Deuteronomio 18:3-4, y Ezequiel 44:30.
+{:#n13-3}
 
 [14:2](#c14-2) Cp. Mateo 5:23-24.
 {:#n14-2}
 
-[14:3](#c14-3) La cita es de  Malaquías 1:11.
+[14:3](#c14-3) Esta cita es una paráfrasis de Malaquías 1:11.
 {:#n14-3}
 
 
