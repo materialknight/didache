@@ -365,28 +365,32 @@ title: Doctrina del Señor transmitida a las naciones por los Doce Apóstoles.
 ### Capitulo 16: Estemos Vigilantes.
 <!-- AQUI ME HE QUEDADO -->
 
-[16:1](#c16-1) Velad por vuestra vida; procurando que estén ceñidos vuestros lomos y vuestras lámparas encendidas, y estad dispuestos, porque no sabéis la hora en que vendrá el Señor.
+[16:1](#c16-1) ¡Velad por vuestra vida! Que vuestras lámparas no se apaguen, que estén ceñidos vuestros lomos. Estad alerta, porque no sabéis la hora en que El Señor ha de venir.
 {:#c16-1}
 
-[16:2](#c16-2) Reuníos a menudo para buscar lo que convenga a vuestras almas, porque de nada os servirá el tiempo que habéis profesado la fe, si no fuereis hallados perfectos el último día.
+[16:2](#c16-2) Reuníos a menudo para buscar lo que sea de provecho para vuestras almas, porque de nada os aprovechará todo el tiempo de vuestra fe, si no fuereis hallados perfectos el último día.
 {:#c16-2}
 
-[16:3](#c16-3) Porque en los últimos tiempos abundarán los falsos profetas y los corruptores, y las ovejas se transformarán en lobos, y el amor se cambiará en odio.
+[16:3](#c16-3) Porque en los últimos días se multiplicarán los falsos profetas y los corruptores, y las ovejas se convertirán en lobos, y el amor se convertirá en odio.
 {:#c16-3}
 
-[16:4](#c16-4) Habiendo aumentado la iniquidad, crecerá el odio de unos contra otros, se perseguirán mutuamente y se entregarán unos a otros.
+[16:4](#c16-4) Habiendo aumentado la iniquidad, unos a otros se odiarán, se perseguirán y se traicionarán; y entonces aparecerá el Engañador del mundo diciéndose Hijo de Dios, y hará señales y prodigios. La tierra será entregada en sus manos, y cometerá iniquidades como jamás se han visto desde el principio.
 {:#c16-4}
 
-[16:5](#c16-5) Entonces es cuando el Seductor del mundo hará su aparición y titulándose el Hijo de Dios, hará señales y prodigios; la tierra le será entregada y cometerá tales maldades como no han sido vistas desde el principio. Los humanos serán sometidos a la prueba del fuego; muchos perecerán escandalizados; pero los que perseverarán en la fe, serán salvos de esta maldición.
+[16:5](#c16-5) [**](#n16-5) Entonces la obra de cada uno será probada por el fuego, y muchos serán escandalizados y perecerán, pero los que perseveren en La Fé, serán salvados por este Depósito.
 {:#c16-5}
 
-[16:6](#c16-6) Entonces aparecerán las señales de la verdad. Primeramente será desplegada la señal en el cielo, después la de la trompeta, y en tercer lugar la resurrección de los muertos, según se ha dicho:
+[16:6](#c16-6) Y entonces aparecerán las señales de la verdad: Primero, la señal de la apertura del cielo, despues la señal del sonido de trompeta, y finalmente, la resurrección de los muertos.
 {:#c16-6}
 
-[16:7](#c16-7) “El Señor vendrá con todos sus santos”
+8. Entonces el mundo verá al Señor, viniendo sobre las nubes del Cielo.
+
+Entonces el mundo verá al Señor venir sobre las nubes del cielo.
+
+[16:7](#c16-7) [**](#n16-7) Pero no de todos, sino según fue dicho: «Vendrá el Señor, y con Él todos los santos».
 {:#c16-7}
 
-[16:8](#c16-8) ¡Entonces el mundo verá al Señor viniendo en las nubes del cielo!
+[16:8](#c16-8) [**](#n16-8) Entonces el mundo verá al Señor viniendo sobre las nubes del Cielo.
 {:#c16-8}
 
 ## Notas.
@@ -466,7 +470,7 @@ Este versículo manda que no se juzgue ni se ponga a prueba a un profeta mientra
 {:#n11-8}
 
 1. No todo espíritu es de Dios, por eso hay que examinarlos (1 Juan 4:1).
-2. Uno puede tener carisma de profecía, y no ser dócil a la voluntad del Espíritu Santo. En ese caso, lo que el Espíritu inspire saldra mezclado con la concupiscencia y los errores del profeta. Así se explica que este hable por el Espíritu Santo cuando confiesa que Jesús es El Señor (1 Corintios 12:3), y cuando cumple su función de edificar, exhortar y consolar (1 Corintios 14:3), aunque luego quiera valerse de su carisma para beneficio personal.
+2. Uno puede tener carisma de profecía, y no ser dócil a la voluntad del Espíritu Santo. En ese caso, lo que el Espíritu inspire saldrá mezclado con la concupiscencia y los errores del profeta. Así se explica que este hable por el Espíritu Santo cuando confiesa que Jesús es El Señor (1 Corintios 12:3), y cuando cumple su función de edificar, exhortar y consolar (1 Corintios 14:3), aunque luego quiera valerse de su carisma para beneficio personal.
 {:#n11-8b}
 
 Por ambas razones existe el carisma de discernimiento de espíritus (1 Corintios 12:10), y Pablo nos exhorta a examinarlo todo y quedarnos con lo bueno (1 Tesalonicenses 5:19-21).
@@ -480,6 +484,16 @@ Por ambas razones existe el carisma de discernimiento de espíritus (1 Corintios
 
 [14:3](#c14-3) Esta cita es una paráfrasis de Malaquías 1:11.
 {:#n14-3}
+
+[16:5](#c16-5) Sobre la «prueba de fuego», cp. 1 Corintios 3:11-17; y sobre el «Depósito de la Fé», véase 1 Timoteo 6:20 y 2 Timoteo 1:12-14.
+{:#n16-5}
+
+[16:7](#c16-7) Esta cita es una paráfrasis de Zacarías 14:5. Cp. Judas 14-15.
+{:#n16-7}
+
+[16:8](#c16-8) Esta cita es de Daniel 7:13, y se repite en Mateo 26:64 y Marcos 14:62.
+{:#n16-8}
+
 
 
 <script type="module" src="./index.js"></script>
