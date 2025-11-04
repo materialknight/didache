@@ -18,7 +18,7 @@ const cacheable_responses = [
    "./manifest.json",
    "./404.html"
 ]
-
+console.log(self.registration.scope)
 // Functions:
 
 function cache_everything(installation) {
@@ -46,6 +46,11 @@ function network_first(fetching) {
       fetch(fetching.request)
          .then(network_response => {
             // Note: If fetching.request.url has search params "?key1=val1&key2=val2", the response won't be cached!
+            console.log(fetching.request.mode, fetching.request.url)
+            if (fetching.request.mode === "navigate")
+            {
+               window.alert(fetching.request.url)
+            }
             const res_is_cacheable = cacheable_responses.some(rel_url => fetching.request.url.endsWith(rel_url.slice(1)))
             if (res_is_cacheable)
             {

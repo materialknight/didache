@@ -383,10 +383,6 @@ title: Doctrina del Señor transmitida a las naciones por los Doce Apóstoles.
 [16:6](#c16-6) Y entonces aparecerán las señales de la verdad: Primero, la señal de la apertura del cielo, despues la señal del sonido de trompeta, y finalmente, la resurrección de los muertos.
 {:#c16-6}
 
-8. Entonces el mundo verá al Señor, viniendo sobre las nubes del Cielo.
-
-Entonces el mundo verá al Señor venir sobre las nubes del cielo.
-
 [16:7](#c16-7) [**](#n16-7) Pero no de todos, sino según fue dicho: «Vendrá el Señor, y con Él todos los santos».
 {:#c16-7}
 
@@ -457,24 +453,21 @@ El cumplimiento de esa profecía se oscurece un poco en algunas traducciones bí
 [11:3](#c11-3) «Apóstol» viene del griego «ἀπόστολος», y significa «enviado», y en este caso, no se refiere solo a uno de los doce, sino a cualquier misionero.
 {:#n11-3}
 
-*Profeta* es el que habla por inspiración del Espíritu Santo, lo cual abarca no solo al que predice el futuro o revela lo oculto, sino también al predicador que edifica, exhorta y consuela (1 Corintios 14:3).
+*Profeta* es el que habla por inspiración del Espíritu Santo, lo cual abarca no solo al que advierte sobre el futuro o revela lo oculto, sino también al predicador que edifica, exhorta y consuela (1 Corintios 14:3).
 {:#n11-3b}
 
-[11:7](#c11-7) El pecado imperdonable es la blasfemia contra el Espíritu Santo, que consiste en atribuir al Diablo lo que viene de Dios, o viceversa, de manera pública, deliberada y obstinada (Mateo 12:22-37 y Marcos 3:20-30); es la disposición del corazón en la que no queremos reconocer nuestro error ni arrepentirnos, y es por eso que este pecado no puede perdonarse, pues es el rechazo deliberado de la misericordia infinita de Dios.
+[11:7](#c11-7) El pecado imperdonable es la blasfemia contra el Espíritu Santo, que es la mala disposición del corazón que nos lleva a negarlo y a estorbarlo de forma pública, deliberada y obstinada, sin querer reconocer nuestro error, lo cual nos impide arrepentirnos, y por eso es imperdonable (Mateo 12:22-37 y Marcos 3:20-30. Cp. 2 Timoteo 4:14-16, donde Pablo pide a Dios que perdone a los que lo abandonaron pero no al que estorbó su apostolado).
 {:#n11-7}
 
-Este versículo manda que no se juzgue ni se ponga a prueba a un profeta mientras esté hablando inspirado por espíritu, pues el calor de la discusión y el prejuicio pueden llevarnos a cuestionar al profeta más allá de lo razonable, en cuyo caso estaríamos escandalizando a otros (haciéndoles creer que su doctrina es mala cuando efectivamente es buena), y estorbando al Espíritu Santo, blasfemando así contra Él. Por eso, en vez de confrontar al profeta inmediatamente mientras habla inspirado, los siguientes versículos mandan observar cuidadosamente lo que enseña y cómo vive, para distinguir si es verdadero o falso profeta.
+Este versículo manda que no se juzgue ni se ponga a prueba a un profeta mientras esté hablando inspirado por espíritu, pues podríamos llegar a estorbar al Espíritu Santo, blasfemando así contra Él. Por eso, en vez de confrontar públicamente al profeta mientras habla inspirado, los siguientes versículos mandan observar cuidadosamente lo que enseña y cómo vive, para distinguir si es verdadero o falso profeta.
 {:#n11-7b}
 
-[11:8](#c11-8) Los versículos [11:9](#c11-9) y [11:12](#c11-12) dicen que el falso profeta se aprovecha de los demás cuando habla inspirado por espíritu. Esto es posible por 2 razones:
+[11:8](#c11-8) Recordemos 2 cosas:
 {:#n11-8}
 
-1. No todo espíritu es de Dios, por eso hay que examinarlos (1 Juan 4:1).
-2. Uno puede tener carisma de profecía, y no ser dócil a la voluntad del Espíritu Santo. En ese caso, lo que el Espíritu inspire saldrá mezclado con la concupiscencia y los errores del profeta. Así se explica que este hable por el Espíritu Santo cuando confiesa que Jesús es El Señor (1 Corintios 12:3), y cuando cumple su función de edificar, exhortar y consolar (1 Corintios 14:3), aunque luego quiera valerse de su carisma para beneficio personal.
+1. No todo espíritu es de Dios. Por eso hay que examinarlos (1 Juan 4:1), y por eso existe el carisma de discernimiento de espíritus (1 Corintios 12:10).
+2. Uno puede tener carisma de profecía, y no ser dócil a la voluntad del Espíritu Santo. En ese caso, lo que el Espíritu inspire saldrá mezclado con la concupiscencia y los errores del profeta. Así se explica que este hable por el Espíritu Santo cuando confiesa que Jesús es El Señor (1 Corintios 12:3), y cuando cumple su función de edificar, exhortar y consolar (1 Corintios 14:3), aunque luego quiera valerse de su carisma para beneficio personal. Por eso Pablo nos exhorta a examinarlo todo y quedarnos con lo bueno (1 Tesalonicenses 5:19-21).
 {:#n11-8b}
-
-Por ambas razones existe el carisma de discernimiento de espíritus (1 Corintios 12:10), y Pablo nos exhorta a examinarlo todo y quedarnos con lo bueno (1 Tesalonicenses 5:19-21).
-{:#n11-8c}
 
 [13:3](#c13-3) Cp. Números 18:12-13, Deuteronomio 18:3-4, y Ezequiel 44:30.
 {:#n13-3}
