@@ -18,7 +18,6 @@ const cacheable_responses = [
    "./manifest.json",
    "./404.html"
 ]
-console.log(self.registration.scope)
 // Functions:
 
 function cache_everything(installation) {
@@ -38,6 +37,7 @@ function del_prev_caches(activation) {
 }
 
 function network_first(fetching) {
+   console.log("registration scope", self.registration.scope)
    if (fetching.request.method !== "GET")
    {
       return // Let the browser handle non-GET requests.
@@ -46,7 +46,9 @@ function network_first(fetching) {
       fetch(fetching.request)
          .then(network_response => {
             // Note: If fetching.request.url has search params "?key1=val1&key2=val2", the response won't be cached!
-            console.log(fetching.request.mode, fetching.request.url)
+            setTimeout(() => {
+               console.log(fetching.request.mode, fetching.request.url)
+            }, 1000)
             if (fetching.request.mode === "navigate")
             {
                window.alert(fetching.request.url)

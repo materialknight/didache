@@ -9,7 +9,7 @@
    "start_url": "/didache/",
    "icons": [
       {
-         "src": "favicon.png",
+         "src": "./assets/images/favicon.png",
          "sizes": "512x512",
          "type": "image/png"
       }
