@@ -1,23 +1,30 @@
 "use strict"
 
-// OLD CACHE: "v0.1.0"
-const CURRENT_CACHE = "v0.1.1"
+// OLD CACHE: "v0.1.0" "v0.1.1"
+// All GitHub pages under the same account share the same origin, so the cache must always have a distinctive name (not only the number) so that it won't interfere with the cache of another GitHub page.
+const CURRENT_CACHE = "didache-0.1.2"
 
 self.addEventListener("install", cache_everything)
 self.addEventListener("activate", del_prev_caches)
 self.addEventListener("fetch", network_first)
 
+// In development, sw_scope is: http://localhost:4000/didache/
+// In production, sw_scope is: https://materialknight.github.io/didache/
+const sw_scope = self.registration.scope
+// All requests using a relative url are made relative to this file's registration scope (/didache/).
 const cacheable_responses = [
-   "./assets/main.css",
-   "./assets/minima-social-icons.svg",
-   "./favicon.png",
-   "./",
-   "./index.html",
-   "./index.js",
-   "./info.html",
-   "./manifest.json",
-   "./404.html"
+   sw_scope,
+   "assets/main.css",
+   "assets/minima-social-icons.svg",
+   "assets/images/favicon.png",
+   "assets/images/icon_chrome.png",
+   "assets/images/icon_edge.png",
+   "assets/images/QR_BTC.jpeg",
+   "index.js",
+   "manifest.json",
+   "info"
 ]
+
 // Functions:
 
 function cache_everything(installation) {
@@ -37,7 +44,6 @@ function del_prev_caches(activation) {
 }
 
 function network_first(fetching) {
-   console.log("registration scope", self.registration.scope)
    if (fetching.request.method !== "GET")
    {
       return // Let the browser handle non-GET requests.
@@ -45,15 +51,11 @@ function network_first(fetching) {
    fetching.respondWith(
       fetch(fetching.request)
          .then(network_response => {
-            // Note: If fetching.request.url has search params "?key1=val1&key2=val2", the response won't be cached!
-            setTimeout(() => {
-               console.log(fetching.request.mode, fetching.request.url)
-            }, 1000)
-            if (fetching.request.mode === "navigate")
-            {
-               window.alert(fetching.request.url)
-            }
-            const res_is_cacheable = cacheable_responses.some(rel_url => fetching.request.url.endsWith(rel_url.slice(1)))
+            // Note: If fetching.request.url has search params "?key1=val1&key2=val2", the response won't be cached.
+            // setTimeout(() => {
+            //    console.log(fetching.request.mode, fetching.request.url)
+            // }, 1000)
+            const res_is_cacheable = cacheable_responses.some(rel_url => fetching.request.url.endsWith(rel_url))
             if (res_is_cacheable)
             {
                const response_clone = network_response.clone()

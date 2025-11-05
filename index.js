@@ -4,7 +4,7 @@ if ("serviceWorker" in navigator)
 {
    try
    {
-      navigator.serviceWorker.register("./sw.js")
+      navigator.serviceWorker.register("./sw.js", { scope: "/didache/" })
    } catch (error)
    {
       console.error(`Your browser seems to support service workers, but the registration of this app's worker failed with error: ${error}`)
@@ -118,9 +118,9 @@ function open_highlight_menu(dblclick_ev) {
    close_btn.focus()
 }
 function load_marked_verses() {
-   const saved_verses = localStorage.getItem("highlights")
+   const saved_verses = localStorage.getItem("didache_marked_verses")
    return saved_verses ? JSON.parse(saved_verses) : {}
 }
 function save_marked_verses() {
-   localStorage.setItem("highlights", JSON.stringify(marked_verses))
+   localStorage.setItem("didache_marked_verses", JSON.stringify(marked_verses))
 }
