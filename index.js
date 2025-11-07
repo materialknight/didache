@@ -4,7 +4,7 @@ if ("serviceWorker" in navigator)
 {
    try
    {
-      navigator.serviceWorker.register("./sw.js", { scope: "/didache/" })
+      navigator.serviceWorker.register("./sw.js")
    } catch (error)
    {
       console.error(`Your browser seems to support service workers, but the registration of this app's worker failed with error: ${error}`)

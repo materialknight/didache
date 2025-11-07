@@ -4,12 +4,6 @@ title: Información
 permalink: /info
 ---
 
-## Sobre «La Doctrina de los Doce Apóstoles».
-
-Esta obra fue escrita originalmente en griego *koiné* (= popular). En latín se conoce como: «Didache XII Apostolorum» (Doctrina de los 12 Apóstoles). En español también se conoce como «La Didajé». Tanto «Didache» como «Didajé» son transliteraciones del término griego «Διδαχή», que significa «doctrina», «instrucción» o «enseñanza».
-
-La *Didajé* es un manual eclesiástico del siglo I; las dataciones más tempranas lo sitúan entre los años 50 y 70 d.C., es decir: incluso antes de algunos libros del Nuevo Testamento, como el Evangelio de Juan y el Apocalipsis. El manuscrito que preserva completa La *Didajé* (el *Codex Hierosolymitanus*) fue descubierto en 1873 por el metropolita Filoteo Bryennios en la biblioteca del Patriarcado Ortodoxo Griego de Constantinopla (hoy Estambul).
-
 ## Sobre esta edición digital.
 
 Cada versículo y nota es un enlace que puede copiarse y compartirse.

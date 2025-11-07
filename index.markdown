@@ -38,6 +38,15 @@ title: Doctrina del Señor transmitida a las naciones por los Doce Apóstoles.
    {:toc}
 </div>
 
+<script type="module" src="./index.js"></script>
+<script type="module" src="./toc.js"></script>
+
+## Introducción de los Editores.
+
+Esta obra fue escrita originalmente en griego *koiné* (= popular). En latín se conoce como: «Didache XII Apostolorum» (Doctrina de los 12 Apóstoles). En español también se conoce como «La Didajé». Tanto «Didache» como «Didajé» son transliteraciones del término griego «Διδαχή», que significa «doctrina», «instrucción» o «enseñanza».
+
+La *Didajé* es un manual eclesiástico del siglo I; las dataciones más tempranas lo sitúan entre los años 50 y 70 d.C., es decir: incluso antes de algunos libros del Nuevo Testamento, como el Evangelio de Juan y el Apocalipsis. El manuscrito que preserva completa La *Didajé* (el *Codex Hierosolymitanus*) fue descubierto en 1873 por el metropolita Filoteo Bryennios en la biblioteca del Patriarcado Ortodoxo Griego de Constantinopla (hoy Estambul).
+
 ## Primera Parte: Los Dos caminos.
 
 ### Capítulo 1: El Camino de la Vida y el Primer Mandamiento de esta Doctrina.
@@ -45,10 +54,10 @@ title: Doctrina del Señor transmitida a las naciones por los Doce Apóstoles.
 [1:1](#c1-1) Existen dos caminos muy diferentes entre sí: el de la vida y el de la muerte.
 {:#c1-1}
 
-[1:2](#c1-2) [**](#n1-2) He aquí el Camino de la Vida: en primer lugar, amarás a Dios, que te ha creado; y en segundo lugar, amarás a tu prójimo como a ti mismo. Y todo lo que no quieras que se te haga a ti, tú tampoco lo hagas a otro.
+[1:2](#c1-2) [[*]](#n1-2) He aquí el Camino de la Vida: en primer lugar, amarás a Dios, que te ha creado; y en segundo lugar, amarás a tu prójimo como a ti mismo. Y todo lo que no quieras que se te haga a ti, tú tampoco lo hagas a otro.
 {:#c1-2}
 
-[1:3](#c1-3) [**](#n1-3) He aquí la doctrina contenida en estas palabras: Bendecid a los que os maldicen, rogad por vuestros enemigos, ayunad por los que os persiguen. ¿Qué mérito hay en amar a los que os aman? Lo mismo hacen los paganos. Al contrario, amad a los que os odian, y no tendréis ya enemigos.
+[1:3](#c1-3) [[**]](#n1-3) He aquí la doctrina contenida en estas palabras: Bendecid a los que os maldicen, rogad por vuestros enemigos, ayunad por los que os persiguen. ¿Qué mérito hay en amar a los que os aman? Lo mismo hacen los paganos. Al contrario, amad a los que os odian, y no tendréis ya enemigos.
 {:#c1-3}
 
 [1:4](#c1-4) Absteneos de los deseos carnales y mundanos. Si alguien te abofeteare en la mejilla derecha, ofrécele también la izquierda, y entonces serás perfecto. Si alguien te pidiere que le acompañes una milla, ve con él dos. Si alguien te quita tu capa, dale también tu túnica. Si alguno tomare lo que es tuyo, no puedes reclamárselo.
@@ -488,5 +497,3 @@ Este versículo manda que no se juzgue ni se ponga a prueba a un profeta mientra
 {:#n16-8}
 
 
-
-<script type="module" src="./index.js"></script>
