@@ -49,15 +49,16 @@ La *Didajé* es un manual eclesiástico del siglo I; las dataciones más tempran
 
 ## Primera Parte: Los Dos caminos.
 
-### Capítulo 1: El Camino de la Vida y el Primer Mandamiento de esta Doctrina.
+### Capítulo [1](#c1): El Camino de la Vida y el Primer Mandamiento de esta Doctrina.
+{:#c1}
 
 [1:1](#c1-1) Existen dos caminos muy diferentes entre sí: el de la vida y el de la muerte.
 {:#c1-1}
 
-[1:2](#c1-2) [[*]](#n1-2) He aquí el Camino de la Vida: en primer lugar, amarás a Dios, que te ha creado; y en segundo lugar, amarás a tu prójimo como a ti mismo. Y todo lo que no quieras que se te haga a ti, tú tampoco lo hagas a otro.
+[1:2](#c1-2) [[\*\*]](#n1-2) He aquí el Camino de la Vida: en primer lugar, amarás a Dios, que te ha creado; y en segundo lugar, amarás a tu prójimo como a ti mismo. Y todo lo que no quieras que se te haga a ti, tú tampoco lo hagas a otro.
 {:#c1-2}
 
-[1:3](#c1-3) [[**]](#n1-3) He aquí la doctrina contenida en estas palabras: Bendecid a los que os maldicen, rogad por vuestros enemigos, ayunad por los que os persiguen. ¿Qué mérito hay en amar a los que os aman? Lo mismo hacen los paganos. Al contrario, amad a los que os odian, y no tendréis ya enemigos.
+[1:3](#c1-3) [[\*\*]](#n1-3) He aquí la doctrina contenida en estas palabras: Bendecid a los que os maldicen, rogad por vuestros enemigos, ayunad por los que os persiguen. ¿Qué mérito hay en amar a los que os aman? Lo mismo hacen los paganos. Al contrario, amad a los que os odian, y no tendréis ya enemigos.
 {:#c1-3}
 
 [1:4](#c1-4) Absteneos de los deseos carnales y mundanos. Si alguien te abofeteare en la mejilla derecha, ofrécele también la izquierda, y entonces serás perfecto. Si alguien te pidiere que le acompañes una milla, ve con él dos. Si alguien te quita tu capa, dale también tu túnica. Si alguno tomare lo que es tuyo, no puedes reclamárselo.
@@ -69,7 +70,8 @@ La *Didajé* es un manual eclesiástico del siglo I; las dataciones más tempran
 [1:6](#c1-6) De esto también fue dicho: «Antes de dar limosna, déjala sudar en las manos, hasta que sepas a quién la das».
 {:#c1-6}
 
-### Capítulo 2: El Segundo Mandamiento de esta Doctrina.
+### Capítulo [2](#c2): El Segundo Mandamiento de esta Doctrina.
+{:#c2}
 
 [2:1](#c2-1) He aquí el segundo mandamiento de la Doctrina:
 {:#c2-1}
@@ -89,7 +91,8 @@ La *Didajé* es un manual eclesiástico del siglo I; las dataciones más tempran
 [2:6](#c2-6) No odiarás a nadie, sino que: reprenderás a algunos, con compasión rezarás por otros, y a otros los amarás más que a tu propia vida.
 {:#c2-6}
 
-### Capítulo 3: El Empeoramiento Progresivo del Pecado.
+### Capítulo [3](#c3): El Empeoramiento Progresivo del Pecado.
+{:#c3}
 
 [3:1](#c3-1) Hijo mío, aléjate del mal y de todo lo que se le asemeje.
 {:#c3-1}
@@ -123,7 +126,8 @@ La *Didajé* es un manual eclesiástico del siglo I; las dataciones más tempran
 [3:10](#c3-10) Acepta como buena toda prueba que tengas que sufrir, sabiendo que nada sucede sin Dios.
 {:#c3-10}
 
-### Capítulo 4: Amonestaciones Varias.
+### Capítulo [4](#c4): Amonestaciones Varias.
+{:#c4}
 
 [4:1](#c4-1) Hijo mío, acuérdate día y noche del que te enseña la Palabra de Dios, y hónralo como al Señor; porque donde habla la autoridad del Señor, allí está el Señor mismo.
 {:#c4-1}
@@ -137,7 +141,7 @@ La *Didajé* es un manual eclesiástico del siglo I; las dataciones más tempran
 [4:4](#c4-4) No fluctúes entre el sí y el no.
 {:#c4-4}
 
-[4:5](#c4-5) [**](#n4-5) No seas como quien extiende las manos para recibir, y las cierra para no dar.
+[4:5](#c4-5) [[\*\*]](#n4-5) No seas como quien extiende las manos para recibir, y las cierra para no dar.
 {:#c4-5}
 
 [4:6](#c4-6) De todo lo que poseas, darás limosna para el perdón de tus pecados.
@@ -164,10 +168,11 @@ La *Didajé* es un manual eclesiástico del siglo I; las dataciones más tempran
 [4:13](#c4-13) No descuides los mandamientos del Señor, sino guarda cuanto has recibido, sin añadir ni quitar.
 {:#c4-13}
 
-[4:14](#c4-14) [**](#n4-14) Confesarás tus pecados en la iglesia, y no te acercarás a orar con mala conciencia. Tal es el Camino de la Vida.
+[4:14](#c4-14) [[\*\*]](#n4-14) Confesarás tus pecados en la iglesia, y no te acercarás a orar con mala conciencia. Tal es el Camino de la Vida.
 {:#c4-14}
 
-### Capítulo 5: El Camino de la Muerte.
+### Capítulo [5](#c5): El Camino de la Muerte.
+{:#c5}
 
 [5:1](#c5-1) El camino de la muerte, lleno de maldad y maldición, es este: el homicidio, el adulterio, la lujuria, la fornicación, el robo, la idolatría, los rituales mágicos, las pociones de la brujería, el saqueo, el falso testimonio, la hipocresía, la doblez de corazón, el engaño, la soberbia, la malicia, la terquedad, la avaricia, el lenguaje obsceno, la envidia, la insolencia, la altanería, la ostentación.
 {:#c5-1}
@@ -175,7 +180,8 @@ La *Didajé* es un manual eclesiástico del siglo I; las dataciones más tempran
 [5:2](#c5-2) Esa es la senda en la que andan los que persiguen a los buenos, los enemigos de la verdad, los amadores de la mentira, los que desconocen la recompensa de la justicia, los que no se apegan al bien, ni al justo juicio, los que se desvelan por hacer el mal y no el bien, los vanidosos, los que están alejados de la mansedumbre y la paciencia, los que buscan su retribución sin tener compasión del pobre, los que son indiferentes ante los afligidos, los que desconocen a Aquel que los hizo, los asesinos de niños, los corruptores de la criatura de Dios, los que abandonan al necesitado, los que oprimen al afligido, los defensores del rico, los jueces inicuos de los pobres, los absolutos pecadores. Hijos míos, ¡escapad de toda esa gente!
 {:#c5-2}
 
-### Capítulo 6: Contra los Falsos Maestros y la Comida Ofrecida a los Ídolos.
+### Capítulo [6](#c6): Contra los Falsos Maestros y la Comida Ofrecida a los Ídolos.
+{:#c6}
 
 [6:1](#c6-1) Mira que nadie te desvíe del camino de esta Doctrina cuando te enseñen cosas sin miras a Dios.
 {:#c6-1}
@@ -188,12 +194,13 @@ La *Didajé* es un manual eclesiástico del siglo I; las dataciones más tempran
 
 ## Segunda Parte: De la Liturgia y de la Disciplina.
 
-### Capítulo 7: Sobre El Bautismo.
+### Capítulo [7](#c7): Sobre El Bautismo.
+{:#c7}
 
-[7:1](#c7-1) [**](#n7-1) En cuanto al bautismo, hay que bautizar así: Después de haber enseñado los anteriores preceptos, bautizad en agua viva, en el Nombre del Padre, y del Hijo y del Espíritu Santo.
+[7:1](#c7-1) [[\*\*]](#n7-1) En cuanto al bautismo, hay que bautizar así: Después de haber enseñado los anteriores preceptos, bautizad en agua viva, en el Nombre del Padre, y del Hijo y del Espíritu Santo.
 {:#c7-1}
 
-[7:2](#c7-2) [**](#n7-2) Si no pudiere ser en agua viva, bautiza en otra agua, y si no pudieres en agua fría, bautiza en agua caliente.
+[7:2](#c7-2) [[\*\*]](#n7-2) Si no pudiere ser en agua viva, bautiza en otra agua, y si no pudieres en agua fría, bautiza en agua caliente.
 {:#c7-2}
 
 [7:3](#c7-3) Pero si no tienes agua viva ni de otra (para sumergir), vierte agua sobre la cabeza tres veces, en el Nombre del Padre, y del Hijo, y del Espíritu Santo.
@@ -202,12 +209,13 @@ La *Didajé* es un manual eclesiástico del siglo I; las dataciones más tempran
 [7:4](#c7-4) Antes del bautismo, el que bautiza y el que ha de ser bautizado deben ayunar, y también otros que puedan hacerlo. Manda a ayunar al bautizando uno o dos días antes.
 {:#c7-4}
 
-### Capítulo 8: Sobre el Ayuno y la Oración.
+### Capítulo [8](#c8): Sobre el Ayuno y la Oración.
+{:#c8}
 
-[8:1](#c8-1) [**](#n8-1) Que vuestro ayuno no sea con los hipócritas, que ayunan lunes y jueves. Vosotros, en cambio, ayunad miércoles y viernes.
+[8:1](#c8-1) [[\*\*]](#n8-1) Que vuestro ayuno no sea con los hipócritas, que ayunan lunes y jueves. Vosotros, en cambio, ayunad miércoles y viernes.
 {:#c8-1}
 
-[8:2](#c8-2a) [**](#n8-2a) Tampoco recéis como los hipócritas, sino como el Señor lo mandó en su Evangelio. Vosotros rezaréis así:
+[8:2](#c8-2a) [[\*\*]](#n8-2a) Tampoco recéis como los hipócritas, sino como el Señor lo mandó en su Evangelio. Vosotros rezaréis así:
 {:#c8-2a}
 
 <span class="hemistich">«Padre nuestro, que estás en el cielo,</span>
@@ -222,12 +230,13 @@ La *Didajé* es un manual eclesiástico del siglo I; las dataciones más tempran
 <span class="hemistich">Amén».</span>
 {:#c8-2b}
 
-[8:3](#c8-3) [**](#n8-3) Rezad así tres veces al día.
+[8:3](#c8-3) [[\*\*]](#n8-3) Rezad así tres veces al día.
 {:#c8-3}
 
-### Capitulo 9: Sobre la Eucaristía.
+### Capitulo [9](#c9): Sobre la Eucaristía.
+{:#c9}
 
-[9:1](#c9-1) [**](#n9-1) En cuanto a la Eucaristía, dad las gracias así:
+[9:1](#c9-1) [[\*\*]](#n9-1) En cuanto a la Eucaristía, dad las gracias así:
 {:#c9-1}
 
 [9:2](#c9-2a) Primero, al tomar el cáliz, decid:
@@ -243,10 +252,11 @@ La *Didajé* es un manual eclesiástico del siglo I; las dataciones más tempran
 <span class="hemistich">Así como este pan que partimos estaba esparcido por los montes, y fue reunido para hacerse uno, así sea reunida Tu Iglesia desde los confines de la tierra en Tu Reino, porque tuya es la gloria y el poder a través de Jesucristo por los siglos de los siglos».</span>
 {:#c9-3b}
 
-[9:4](#c9-4) [**](#n9-4) Pero que nadie coma ni beba de vuestra Eucaristía, sino únicamente los que estén bautizados en el Nombre del Señor, porque también sobre esto dijo el Señor: «No deis lo santo a los perros».
+[9:4](#c9-4) [[\*\*]](#n9-4) Pero que nadie coma ni beba de vuestra Eucaristía, sino únicamente los que estén bautizados en el Nombre del Señor, porque también sobre esto dijo el Señor: «No deis lo santo a los perros».
 {:#c9-4}
 
-### Capitulo 10: Oración después de la Comunión.
+### Capitulo [10](#c10): Oración después de la Comunión.
+{:#c10}
 
 [10:1](#c10-1) Cuando estéis saciados, dad gracias de esta manera:
 {:#c10-1}
@@ -263,13 +273,14 @@ La *Didajé* es un manual eclesiástico del siglo I; las dataciones más tempran
 [10:5](#c10-5) Acuérdate, Señor, de tu Iglesia para librarla de todo mal y perfeccionarla en Tu amor; reúnela desde los cuatro vientos, santificada, en Tu Reino, el cual has preparado para ella; porque Tuyo es el poder y la gloria por los siglos de los siglos».
 {:#c10-5}
 
-[10:6](#c10-6) [\*\*](#n10-6) Venga tu gracia, y pase este mundo. *¡Hosanna* al Dios de David! Si uno es santo, que se acerque; si no lo es, que haga penitencia. ¡*Maranathá*, amén!
+[10:6](#c10-6) [[\*\*]](#n10-6) Venga tu gracia, y pase este mundo. *¡Hosanna* al Dios de David! Si uno es santo, que se acerque; si no lo es, que haga penitencia. ¡*Maranathá*, amén!
 {:#c10-6}
 
 [10:7](#c10-7) Permitid que los profetas hagan Acción de Gracias tantas veces como lo deseen.
 {:#c10-7}
 
-### Capitulo 11: Sobre los Apóstoles, Maestros y Profetas.
+### Capitulo [11](#c11): Sobre los Apóstoles, Maestros y Profetas.
+{:#c11}
 
 [11:1](#c11-1) Si alguien viniere a vosotros enseñándoos todo lo dicho anteriormente, a ese acogedle.
 {:#c11-1}
@@ -277,7 +288,7 @@ La *Didajé* es un manual eclesiástico del siglo I; las dataciones más tempran
 [11:2](#c11-2) Sin embargo, si ese mismo maestro se pervirtiere y enseñare otra doctrina para crear cisma, no le escuchéis; pero si enseña para aumentar la justicia, y el conocimiento del Señor, acogedle como al Señor.
 {:#c11-2}
 
-[11:3](#c11-3) [**](#n11-3) En cuanto a los apóstoles y profetas, proceded así, conforme al Evangelio:
+[11:3](#c11-3) [[\*\*]](#n11-3) En cuanto a los apóstoles y profetas, proceded así, conforme al Evangelio:
 {:#c11-3}
 
 [11:4](#c11-4) Todo apóstol que llegue a vosotros ha de ser recibido como el Señor.
@@ -289,10 +300,10 @@ La *Didajé* es un manual eclesiástico del siglo I; las dataciones más tempran
 [11:6](#c11-6) Al partir, el apóstol no aceptará nada sino pan para sustentarse hasta llegar a otro hospedaje. Si pidiere dinero, es un falso profeta.
 {:#c11-6}
 
-[11:7](#c11-7) [**](#n11-7) Mientras un profeta hable inspirado por espíritu, no le pondréis a prueba ni le juzgaréis, porque todo pecado se perdona, menos ese.
+[11:7](#c11-7) [[\*\*]](#n11-7) Mientras un profeta hable inspirado por espíritu, no le pondréis a prueba ni le juzgaréis, porque todo pecado se perdona, menos ese.
 {:#c11-7}
 
-[11:8](#c11-8) [**](#n11-8) Pero no todo el que habla inspirado por espíritu es profeta, sino solo el que vive como el Señor. Por el modo de vida se distinguirá el verdadero profeta del falso.
+[11:8](#c11-8) [[\*\*]](#n11-8) Pero no todo el que habla inspirado por espíritu es profeta, sino solo el que vive como el Señor. Por el modo de vida se distinguirá el verdadero profeta del falso.
 {:#c11-8}
 
 [11:9](#c11-9) El profeta que, hablando por inspiración de espíritu, manda poner una mesa, no come de ella, a menos que sea un falso profeta.
@@ -308,7 +319,8 @@ La *Didajé* es un manual eclesiástico del siglo I; las dataciones más tempran
 {:#c11-12}
 
 
-### Capitulo 12: Hospitalidad con los Cristianos.
+### Capitulo [12](#c12): Hospitalidad con los Cristianos.
+{:#c12}
 
 [12:1](#c12-1) A todo el que llegue en el Nombre del Señor, acogedle, y probadle después para conocerle, pues tenéis criterio para discernir entre la derecha y la izquierda.
 {:#c12-1}
@@ -325,7 +337,8 @@ La *Didajé* es un manual eclesiástico del siglo I; las dataciones más tempran
 [12:5](#c12-5) Y si no quisiere aceptar eso, es un traficante de Cristo. ¡Guardaos de tales personas!
 {:#c12-5}
 
-### Capitulo 13: Apoyo a los Profetas.
+### Capitulo [13](#c13): Apoyo a los Profetas.
+{:#c13}
 
 [13:1](#c13-1) El verdadero profeta que quisiere fijar su residencia entre vosotros, es digno de su sustento.
 {:#c13-1}
@@ -333,7 +346,7 @@ La *Didajé* es un manual eclesiástico del siglo I; las dataciones más tempran
 [13:2](#c13-2) Así también un verdadero maestro, igual que el obrero, es digno de su sustento.
 {:#c13-2}
 
-[13:3](#c13-3) [**](#n13-3) Tomarás las primicias del lagar, del campo, de los bueyes y de las ovejas, para darlas a los profetas, porque ellos son vuestros sumos sacerdotes.
+[13:3](#c13-3) [[\*\*]](#n13-3) Tomarás las primicias del lagar, del campo, de los bueyes y de las ovejas, para darlas a los profetas, porque ellos son vuestros sumos sacerdotes.
 {:#c13-3}
 
 [13:4](#c13-4) Y si no tuviereis profeta, dadlo a los pobres.
@@ -347,18 +360,21 @@ La *Didajé* es un manual eclesiástico del siglo I; las dataciones más tempran
 [13:7](#c13-7) En cuanto a tu dinero, tus bienes y tus vestidos, tomarás primicias según te parezca, y las darás conforme a este mandamiento.
 {:#c13-6}
 
-### Capitulo 14: La Misa del Domingo.
+### Capitulo [14](#c14): La Misa del Domingo.
+{:#c14}
 
 [14:1](#c14-1) Reuníos cada domingo, que es el día del Señor, para celebrar la Eucaristía partiendo el pan y dando gracias, después de haber confesado vuestros pecados, para que vuestro sacrificio sea puro.
 {:#c14-1}
 
-[14:2](#c14-2) [\*\*](#n14-2) Pero que no participen los hermanos que estén en contienda, hasta que se reconcilien, para que vuestro sacrificio no sea profanado.
+[14:2](#c14-2) [[\*\*]](#n14-2) Pero que no participen los hermanos que estén en contienda, hasta que se reconcilien, para que vuestro sacrificio no sea profanado.
 {:#c14-2}
 
-[14:3](#c14-3) [\*\*](#n14-3) Porque esto dijo El Señor: «En todo lugar y tiempo me ofreceréis un sacrificio puro, porque soy El Gran Rey, y Mi Nombre es alabado entre las naciones».
+[14:3](#c14-3) [[\*\*]](#n14-3) Porque esto dijo El Señor: «En todo lugar y tiempo me ofreceréis un sacrificio puro, porque soy El Gran Rey, y Mi Nombre es alabado entre las naciones».
 {:#c14-3}
 
-### Capitulo 15: Obispos, Diáconos y Amonestación Cristiana.
+### Capitulo [15](#c15): Obispos, Diáconos y Amonestación Cristiana.
+{:#c15}
+
 [15:1](#c15-1) Elegíos, pues, obispos y diáconos dignos del Señor: varones mansos, que no amen el dinero, veraces y probados; porque ellos también desempeñan para vosotros el ministerio litúrgico de los profetas y maestros.
 {:#c15-1}
 
@@ -371,8 +387,8 @@ La *Didajé* es un manual eclesiástico del siglo I; las dataciones más tempran
 [15:4](#c15-4) Haced vuestras oraciones, limosnas y todas vuestras obras según lo tenéis en el Evangelio de Nuestro Señor.
 {:#c15-4}
 
-### Capitulo 16: Estemos Vigilantes.
-<!-- AQUI ME HE QUEDADO -->
+### Capitulo [16](#c16): Estemos Vigilantes.
+{:#c16}
 
 [16:1](#c16-1) ¡Velad por vuestra vida! Que vuestras lámparas no se apaguen, que estén ceñidos vuestros lomos. Estad alerta, porque no sabéis la hora en que El Señor ha de venir.
 {:#c16-1}
@@ -386,16 +402,16 @@ La *Didajé* es un manual eclesiástico del siglo I; las dataciones más tempran
 [16:4](#c16-4) Habiendo aumentado la iniquidad, unos a otros se odiarán, se perseguirán y se traicionarán; y entonces aparecerá el Engañador del mundo diciéndose Hijo de Dios, y hará señales y prodigios. La tierra será entregada en sus manos, y cometerá iniquidades como jamás se han visto desde el principio.
 {:#c16-4}
 
-[16:5](#c16-5) [**](#n16-5) Entonces la obra de cada uno será probada por el fuego, y muchos serán escandalizados y perecerán, pero los que perseveren en La Fé, serán salvados por este Depósito.
+[16:5](#c16-5) [[\*\*]](#n16-5) Entonces la obra de cada uno será probada por el fuego, y muchos serán escandalizados y perecerán, pero los que perseveren en La Fé, serán salvados por este Depósito.
 {:#c16-5}
 
 [16:6](#c16-6) Y entonces aparecerán las señales de la verdad: Primero, la señal de la apertura del cielo, despues la señal del sonido de trompeta, y finalmente, la resurrección de los muertos.
 {:#c16-6}
 
-[16:7](#c16-7) [**](#n16-7) Pero no de todos, sino según fue dicho: «Vendrá el Señor, y con Él todos los santos».
+[16:7](#c16-7) [[\*\*]](#n16-7) Pero no de todos, sino según fue dicho: «Vendrá el Señor, y con Él todos los santos».
 {:#c16-7}
 
-[16:8](#c16-8) [**](#n16-8) Entonces el mundo verá al Señor viniendo sobre las nubes del Cielo.
+[16:8](#c16-8) [[\*\*]](#n16-8) Entonces el mundo verá al Señor viniendo sobre las nubes del Cielo.
 {:#c16-8}
 
 ## Notas.
@@ -415,7 +431,7 @@ Lo que aparece al final de este versículo es «La Regla de Plata»: «No hagas 
 [4:5](#c4-5) Cp. Eclesiástico 4:31.
 {:#n4-5}
 
-[4:14](#c4-14) Este versículo se explica en todo el Capítulo [14](#capitulo-14-la-misa-del-domingo).
+[4:14](#c4-14) Este versículo se explica en todo el Capítulo [14](#c14).
 {:#n4-14}
 
 [7:1](#c7-1) «Agua viva» significa «agua dulce, pura y fluyente», como la de un río o manantial.
