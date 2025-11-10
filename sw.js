@@ -21,6 +21,7 @@ const cacheable_responses = [
    "assets/images/icon_edge.png",
    "assets/images/QR_BTC.jpeg",
    "index.js",
+   "toc.js",
    "manifest.json",
    "info"
 ]
@@ -78,7 +79,7 @@ function network_first(fetching) {
                const cached_404 = await open_cache.match(req_404)
                return cached_404
             }
-            return new Response('Both network and cache failed', {
+            return new Response('La página solicitada no pudo ser traída de la red ni hallada en el cache.', {
                status: 404,
                headers: { 'Content-Type': 'text/plain' }
             })
