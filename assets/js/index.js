@@ -4,7 +4,7 @@ if ("serviceWorker" in navigator)
 {
    try
    {
-      navigator.serviceWorker.register("./sw.js")
+      navigator.serviceWorker.register("sw.js")
    } catch (error)
    {
       console.error(`Your browser seems to support service workers, but the registration of this app's worker failed with error: ${error}`)
@@ -56,13 +56,14 @@ reset_picker_btn.addEventListener("click", () => {
    clicked_verse.removeAttribute("data-color")
    marked_verses[clicked_verse.id].color = ""
    color_picker.dispatchEvent(new CustomEvent("synch_picker"))
+   save_marked_verses()
 })
 
 annotation_box.addEventListener("synch_annotation", () => {
    annotation_box.value = marked_verses[clicked_verse.id].annotation
 })
 
-highlight_menu.querySelectorAll("[name=color]").forEach(color_input => {
+color_picker.querySelectorAll("[name=color]").forEach(color_input => {
    color_input.addEventListener("change", () => {
       clicked_verse.setAttribute("data-color", color_input.value)
       marked_verses[clicked_verse.id].color = color_input.value
@@ -70,7 +71,7 @@ highlight_menu.querySelectorAll("[name=color]").forEach(color_input => {
    })
 })
 
-annotation_box.addEventListener("change", () => {
+annotation_box.addEventListener("input", () => {
    marked_verses[clicked_verse.id].annotation = annotation_box.value.trim()
    if (marked_verses[clicked_verse.id].annotation)
    {
@@ -80,15 +81,11 @@ annotation_box.addEventListener("change", () => {
    {
       clicked_verse.classList.remove("outlined")
    }
-   save_marked_verses()
 })
 
+annotation_box.addEventListener("change", save_marked_verses)
+
 close_btn.addEventListener("click", () => {
-   if (marked_verses[clicked_verse.id].color === "" && marked_verses[clicked_verse.id].annotation === "")
-   {
-      delete marked_verses[clicked_verse.id]
-   }
-   save_marked_verses()
    highlight_menu.hidePopover()
 })
 
@@ -118,8 +115,21 @@ function open_highlight_menu(dblclick_ev) {
    close_btn.focus()
 }
 function load_marked_verses() {
-   const saved_verses = localStorage.getItem("didache_marked_verses")
-   return saved_verses ? JSON.parse(saved_verses) : {}
+   let saved_verses = localStorage.getItem("didache_marked_verses")
+   if (saved_verses === null || saved_verses === undefined)
+   {
+      return {}
+   }
+   saved_verses = JSON.parse(saved_verses)
+   // Delete data-less keys:
+   for (const id in saved_verses)
+   {
+      if (saved_verses[id].color === "" && saved_verses[id].annotation === "")
+      {
+         delete saved_verses[id]
+      }
+   }
+   return saved_verses
 }
 function save_marked_verses() {
    localStorage.setItem("didache_marked_verses", JSON.stringify(marked_verses))

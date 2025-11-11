@@ -11,21 +11,22 @@ self.addEventListener("fetch", network_first)
 // In development, sw_scope is: http://localhost:4000/didache/
 // In production, sw_scope is: https://materialknight.github.io/didache/
 const sw_scope = self.registration.scope
-// All requests using a relative url are made relative to this file's registration scope (/didache/).
+// All requests using a relative url would be made relative to this file's registration scope (/didache/).
+// The service worker should not be cached.
 const cacheable_responses = [
    sw_scope,
-   "assets/main.css",
-   "assets/minima-social-icons.svg",
-   "assets/images/favicon.png",
-   "assets/images/icon_chrome.png",
-   "assets/images/icon_edge.png",
-   "assets/images/QR_BTC.jpeg",
-   "index.js",
-   "toc.js",
-   "manifest.json",
-   "info"
+   sw_scope.concat("info"),
+   sw_scope.concat("manifest.json"),
+   sw_scope.concat("assets/main.css"),
+   sw_scope.concat("assets/minima-social-icons.svg"),
+   sw_scope.concat("assets/images/favicon.png"),
+   sw_scope.concat("assets/images/icon_chrome.png"),
+   sw_scope.concat("assets/images/icon_edge.png"),
+   sw_scope.concat("assets/images/QR_BTC.jpeg"),
+   sw_scope.concat("assets/js/index.js"),
+   sw_scope.concat("assets/js/toc.js")
 ]
-
+console.log(sw_scope)
 // Functions:
 
 function cache_everything(installation) {
@@ -53,12 +54,10 @@ function network_first(fetching) {
       fetch(fetching.request)
          .then(network_response => {
             // Note: If fetching.request.url has search params "?key1=val1&key2=val2", the response won't be cached.
-            // setTimeout(() => {
-            //    console.log(fetching.request.mode, fetching.request.url)
-            // }, 1000)
-            const res_is_cacheable = cacheable_responses.some(rel_url => fetching.request.url.endsWith(rel_url))
+            const res_is_cacheable = cacheable_responses.includes(fetching.request.url)
             if (res_is_cacheable)
             {
+               // setTimeout(() => console.log("cached!"), 1000)
                const response_clone = network_response.clone()
                caches.open(CURRENT_CACHE).then(cache => cache.put(fetching.request, response_clone))
             }
