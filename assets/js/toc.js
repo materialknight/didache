@@ -2,7 +2,6 @@
 
 const toc = document.getElementById("toc")
 const headings = Array.from(document.querySelectorAll("h1[id], h2[id], h3[id], h4[id], h5[id], h6[id]"))
-
 const text_sections = Array.from(document.querySelectorAll("h1[id], h2[id], h3[id], h4[id], h5[id], h6[id], p[id]"))
 
 const zip = []

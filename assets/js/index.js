@@ -23,8 +23,9 @@ const close_btn = document.getElementById("close-btn")
 let checked_radio_btn = null
 let clicked_verse = null
 let lastPointerUp = 0
+const verses = Array.from(document.querySelectorAll("p[id]"))
 
-document.querySelectorAll("p[id]").forEach(markable_elem => {
+verses.forEach(markable_elem => {
    markable_elem.addEventListener("pointerup", pointerup_ev => {
       const now = Date.now()
       if (now - lastPointerUp < 400)
@@ -101,6 +102,27 @@ Object.keys(marked_verses).forEach(verse_id => {
    }
 })
 
+// Marked verses table of contents:
+
+const marked_verses_toc = document.getElementById("verses-list")
+
+marked_verses_toc.addEventListener("sync_marked_verses_toc", () => {
+   marked_verses_toc.textContent = ""
+   for (const verse of verses)
+   {
+      const verse_data = marked_verses[verse.id]
+      if (!verse_data?.color && !verse_data?.annotation)
+      {
+         continue
+      }
+      const verse_clone = verse.cloneNode(true)
+      verse_clone.removeAttribute("id")
+      marked_verses_toc.appendChild(verse_clone)
+   }
+})
+
+marked_verses_toc.dispatchEvent(new CustomEvent("sync_marked_verses_toc"))
+
 // Functions:
 
 function open_highlight_menu(dblclick_ev) {
@@ -132,5 +154,6 @@ function load_marked_verses() {
    return saved_verses
 }
 function save_marked_verses() {
+   marked_verses_toc.dispatchEvent(new CustomEvent("sync_marked_verses_toc"))
    localStorage.setItem("didache_marked_verses", JSON.stringify(marked_verses))
 }

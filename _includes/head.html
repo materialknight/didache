@@ -12,6 +12,10 @@
    <link rel="icon" href={{ "/assets/images/favicon.png" | relative_url }}>
    <link rel="manifest" href={{ "/manifest.json" | relative_url}}>
    <style>
+      .centered-heading {
+         text-align: center;
+      }
+
       .hemistich {
          display: block;
       }
@@ -30,11 +34,24 @@
          background-color: aliceblue;
       }
 
-      [popovertarget=toc]:active {
+      [popovertarget=marked-verses] {
+         position: fixed;
+         inset: auto 87px 37px auto;
+         width: 40px;
+         height: 40px;
+         cursor: pointer;
+         border: 1px solid black;
+         background-color: aliceblue;
+         fill: forestgreen;
+      }
+
+      [popovertarget=toc]:active,
+      [popovertarget=marked-verses]:active {
          background-color: burlywood;
       }
 
-      [popovertarget=toc]:hover {
+      [popovertarget=toc]:hover,
+      [popovertarget=marked-verses]:hover {
          background-color: cornsilk;
       }
 
@@ -64,7 +81,8 @@
          padding: 6px;
       }
 
-      #toc {
+      #toc,
+      #marked-verses {
          padding: 20px;
          overflow-y: auto;
          max-height: 70vh;

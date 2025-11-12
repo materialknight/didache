@@ -6,6 +6,9 @@ title: Doctrina del Señor transmitida a las naciones por los Doce Apóstoles.
    <input type="button" popovertarget="toc" value="Contenido">
    <input type="button" popovertarget="books" value="Libros">
 </div> -->
+
+<button popovertarget="marked-verses" title="Versículos marcados"><svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px"><path d="M80 0v-160h800V0H80Zm504-480L480-584 320-424l103 104 161-160Zm-47-160 103 103 160-159-104-104-159 160Zm-84-29 216 216-189 190q-24 24-56.5 24T367-263l-27 23H140l126-125q-24-24-25-57.5t23-57.5l189-189Zm0 0 187-187q24-24 56.5-24t56.5 24l104 103q24 24 24 56.5T857-640L669-453 453-669Z"/></svg></button>
+
 <button popovertarget="toc" title="Tabla de contenido"><svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px"><path d="M120-280v-80h560v80H120Zm0-160v-80h560v80H120Zm0-160v-80h560v80H120Zm680 320q-17 0-28.5-11.5T760-320q0-17 11.5-28.5T800-360q17 0 28.5 11.5T840-320q0 17-11.5 28.5T800-280Zm0-160q-17 0-28.5-11.5T760-480q0-17 11.5-28.5T800-520q17 0 28.5 11.5T840-480q0 17-11.5 28.5T800-440Zm0-160q-17 0-28.5-11.5T760-640q0-17 11.5-28.5T800-680q17 0 28.5 11.5T840-640q0 17-11.5 28.5T800-600Z"/></svg></button>
 
 <div id="highlight-menu" popover>
@@ -30,6 +33,11 @@ title: Doctrina del Señor transmitida a las naciones por los Doce Apóstoles.
          <button id="close-btn" type="button" title="Cerrar"><svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px"><path d="M382-240 154-468l57-57 171 171 367-367 57 57-424 424Z"/></svg></button>
       </div>
    </div>
+</div>
+
+<div id="marked-verses" popover>
+   <h3 class="centered-heading">Versículos resaltados y anotados:</h3>
+   <div id="verses-list"></div>
 </div>
 
 <div id="toc" markdown="1" popover>
