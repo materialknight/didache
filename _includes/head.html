@@ -4,6 +4,7 @@
    <meta name="viewport" content="width=device-width, initial-scale=1">
    {%- seo -%}
    <link rel="stylesheet" href={{ "/assets/main.css" | relative_url }}>
+   <link rel="stylesheet" href={{ "/assets/css/custom.css" | relative_url }}>
    {%- feed_meta -%}
    {%- if jekyll.environment == 'production' and site.google_analytics -%}
    {%- include google-analytics.html -%}
@@ -12,8 +13,24 @@
    <link rel="icon" href={{ "/assets/images/favicon.png" | relative_url }}>
    <link rel="manifest" href={{ "/manifest.json" | relative_url}}>
    <style>
+      #font-options>label {
+         display: grid;
+         gap: 5px;
+      }
+
+      #font-size-select {
+         padding: 5px;
+         font-size: 16px;
+         width: fit-content;
+         justify-self: center;
+      }
+
       .centered-heading {
          text-align: center;
+      }
+
+      #verses-list>p {
+         /* margin-bottom: 0; */
       }
 
       .hemistich {
@@ -27,31 +44,53 @@
       [popovertarget=toc] {
          position: fixed;
          inset: auto 37px 37px auto;
-         width: 40px;
-         height: 40px;
+         width: 42px;
+         height: 42px;
          cursor: pointer;
-         border: 1px solid black;
+         border: 2px solid black;
          background-color: aliceblue;
+         display: flex;
+         justify-content: center;
+         align-items: center;
       }
 
       [popovertarget=marked-verses] {
          position: fixed;
          inset: auto 87px 37px auto;
-         width: 40px;
-         height: 40px;
+         width: 42px;
+         height: 42px;
          cursor: pointer;
-         border: 1px solid black;
+         border: 2px solid black;
          background-color: aliceblue;
          fill: forestgreen;
+         display: flex;
+         justify-content: center;
+         align-items: center;
+      }
+
+      [popovertarget=font-options] {
+         position: fixed;
+         inset: auto 137px 37px auto;
+         width: 42px;
+         height: 42px;
+         cursor: pointer;
+         border: 2px solid black;
+         background-color: aliceblue;
+         fill: teal;
+         display: flex;
+         justify-content: center;
+         align-items: center;
       }
 
       [popovertarget=toc]:active,
-      [popovertarget=marked-verses]:active {
+      [popovertarget=marked-verses]:active,
+      [popovertarget=font-options]:active {
          background-color: burlywood;
       }
 
       [popovertarget=toc]:hover,
-      [popovertarget=marked-verses]:hover {
+      [popovertarget=marked-verses]:hover,
+      [popovertarget=font-options]:hover {
          background-color: cornsilk;
       }
 
@@ -82,7 +121,8 @@
       }
 
       #toc,
-      #marked-verses {
+      #marked-verses,
+      #font-options {
          padding: 20px;
          overflow-y: auto;
          max-height: 70vh;

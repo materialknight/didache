@@ -31,10 +31,8 @@ En Brave para móvil está en:
 
 En el futuro habrá:
 
-1. Un botón para controlar el estilo y tamaño de letra.
-2. Un botón para ver la lista de los versículos coloreados o anotados.
-3. Posiblemente algunas notas más.
-4. El texto en otros idiomas.
+1. Posiblemente algunas notas más.
+2. El texto en otros idiomas.
 
 También estamos adaptando la Biblia Straubinger y el Catecismo de la Iglesia Católica (el cual no es muy cómodo de leer en el sitio oficial del Vaticano) al mismo formato de este libro digital; e idealmente, queremos vincular las 3 obras entre sí, por ejemplo: Que toda referencia bíblica aquí (como Malaquías 1:11) dirija a la Biblia Straubinger, y que toda referencia a la *Didajé* en la Biblia Straubinger y en el Catecismo, dirija aquí.
 
