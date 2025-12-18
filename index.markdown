@@ -272,12 +272,14 @@ La *Didajé* es un manual eclesiástico del siglo I; las dataciones más tempran
 [9:3](#c9-3a) Y después de partir el pan, decid:
 {:#c9-3a}
 
-<span class="hemistich">«Te damos gracias, Padre nuestro, por la vida y el conocimiento que nos revelaste a través de Tu Hijo y Siervo Jesús. A Ti sea la gloria por los siglos de los siglos.</span>
-<span class="hemistich">Así como este pan que partimos estaba esparcido por los montes, y fue reunido para hacerse uno, así sea reunida Tu Iglesia desde los confines de la tierra en Tu Reino, porque tuya es la gloria y el poder a través de Jesucristo por los siglos de los siglos».</span>
+«Te damos gracias, Padre nuestro, por la vida y el conocimiento que nos revelaste a través de Tu Hijo y Siervo Jesús. A Ti sea la gloria por los siglos de los siglos.
 {:#c9-3b}
 
-[9:4](#c9-4) [[\*\*]](#n9-4) Pero que nadie coma ni beba de vuestra Eucaristía, sino únicamente los que estén bautizados en el Nombre del Señor, porque también sobre esto dijo el Señor: «No deis lo santo a los perros».
+[9:4](#c9-4) Así como este pan que partimos estaba esparcido por los montes, y fue reunido para hacerse uno, así sea reunida Tu Iglesia desde los confines de la tierra en Tu Reino, porque tuya es la gloria y el poder a través de Jesucristo por los siglos de los siglos».
 {:#c9-4}
+
+[9:5](#c9-5) [[\*\*]](#n9-5) Pero que nadie coma ni beba de vuestra Eucaristía, sino únicamente los que estén bautizados en el Nombre del Señor, porque también sobre esto dijo el Señor: «No deis lo santo a los perros».
+{:#c9-5}
 
 ### Capitulo [10](#c10): Oración después de la Comunión.
 {:#c10}
@@ -476,8 +478,8 @@ Lo que aparece al final de este versículo es «La Regla de Plata»: «No hagas 
 [9:1](#c9-1) «Eucaristía» es una transliteración del griego «εὐχαριστία», que significa «acción de gracias», y se llama así porque Jesús la instituyó dando gracias al Padre (Mateo 26:26-28, Marcos 14:22-24, Lucas 22:17-19).
 {:#n9-1}
 
-[9:4](#c9-4) Cp. Mateo 7:6.
-{:#n9-4}
+[9:5](#c9-5) Cp. Mateo 7:6.
+{:#n9-5}
 
 [10:6](#c10-6) «Hosanna» es la transliteración de una expresión hebrea que significa «sálvanos ya». El Domingo de Ramos, cuando Jesús entra en Jerusalén, la multitud lo recibe tendiendo ramas en su camino, y aclamando: «¡*Hosanna* al Hijo de David! ¡Bendito el que viene en el nombre del Señor!» (Mateo 21:8-9), y unos muchachos lo aclaman *en el Templo* (Mateo 21:15). Todo eso da cumplimiento al Salmo 118:25-27:
 {:#n10-6}
