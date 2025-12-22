@@ -1,3 +1,13 @@
 p {
    font-size: 1rem;
 }
+
+blockquote {
+   letter-spacing: normal;
+   color: #646161;
+}
+
+[popover] {
+   border-top: 2px solid black;
+   border-bottom: 2px solid black;
+}
