@@ -1,8 +1,8 @@
 "use strict"
 
-// OLD CACHE: "v0.1.0" "v0.1.1"
+// OLD CACHE: "v0.1.0" "v0.1.1" "didache-0.1.2"
 // All GitHub pages under the same account share the same origin, so the cache must always have a distinctive name (not only the number) so that it won't interfere with the cache of another GitHub page.
-const CURRENT_CACHE = "didache-0.1.2"
+const CURRENT_CACHE = "didache-0.2.0"
 
 self.addEventListener("install", cache_everything)
 self.addEventListener("activate", del_prev_caches)
@@ -19,10 +19,12 @@ const cacheable_responses = [
    sw_scope.concat("manifest.json"),
    sw_scope.concat("assets/main.css"),
    sw_scope.concat("assets/minima-social-icons.svg"),
+   sw_scope.concat("assets/css/custom.css"),
    sw_scope.concat("assets/images/favicon.png"),
    sw_scope.concat("assets/images/icon_chrome.png"),
    sw_scope.concat("assets/images/icon_edge.png"),
    sw_scope.concat("assets/images/QR_BTC.jpeg"),
+   sw_scope.concat("assets/js/font.js"),
    sw_scope.concat("assets/js/index.js"),
    sw_scope.concat("assets/js/toc.js")
 ]
